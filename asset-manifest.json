@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/carrito-compras-react/static/css/main.f3491eed.chunk.css",
+    "main.js": "/carrito-compras-react/static/js/main.d0b5f93f.chunk.js",
+    "main.js.map": "/carrito-compras-react/static/js/main.d0b5f93f.chunk.js.map",
+    "runtime-main.js": "/carrito-compras-react/static/js/runtime-main.6970c0de.js",
+    "runtime-main.js.map": "/carrito-compras-react/static/js/runtime-main.6970c0de.js.map",
+    "static/js/2.db58d09e.chunk.js": "/carrito-compras-react/static/js/2.db58d09e.chunk.js",
+    "static/js/2.db58d09e.chunk.js.map": "/carrito-compras-react/static/js/2.db58d09e.chunk.js.map",
+    "static/js/3.92b2536f.chunk.js": "/carrito-compras-react/static/js/3.92b2536f.chunk.js",
+    "static/js/3.92b2536f.chunk.js.map": "/carrito-compras-react/static/js/3.92b2536f.chunk.js.map",
+    "index.html": "/carrito-compras-react/index.html",
+    "static/css/main.f3491eed.chunk.css.map": "/carrito-compras-react/static/css/main.f3491eed.chunk.css.map",
+    "static/js/2.db58d09e.chunk.js.LICENSE.txt": "/carrito-compras-react/static/js/2.db58d09e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6970c0de.js",
+    "static/js/2.db58d09e.chunk.js",
+    "static/css/main.f3491eed.chunk.css",
+    "static/js/main.d0b5f93f.chunk.js"
+  ]
+}
